@@ -1,8 +1,6 @@
 # PATTERN BLENDER
 
----
-
-### Welcome to pattern blender!
+## Welcome to pattern blender!
 
 This is a project I made to personally learn about various OOP design patterns by implementing them with my own intuition.
 
@@ -12,4 +10,6 @@ You can join me in this journey to learn along with me and point out issues and 
 
 Feel free to fork and open new pull requests if you have any novel implementations for the patterns.
 
-> Note: All the implementations above are in Java but always feel free to add a sub folder for the language of your choice for your own implementations.
+---
+
+> **Note**: All the implementations above are in Java but always feel free to add a sub folder for the language of your choice for your own implementations.
